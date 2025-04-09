@@ -1,4 +1,4 @@
-# ReviewSentimentAnalysis
+# IMDB Reviews - Sentiment Analysis
 
 **ReviewSentimentAnalysis** is a sentiment classification project for movie reviews. It uses models like **TF-IDF + Logistic Regression**, **LightGBM**, and **BERT** to classify reviews as either positive or negative. This project includes custom preprocessing and is tested on both a movie review dataset and custom reviews.
 
