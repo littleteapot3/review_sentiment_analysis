@@ -1,3 +1,12 @@
+> 📦 This project has been archived.
+
+This repository was part of my TripleTen Data Science Bootcamp. It has been moved into my central bootcamp project collection:  
+🔗 [Data projects (TripleTen)](https://github.com/littleteapot3/data-projects-tripleten)
+
+This version is now read-only and preserved for reference.
+
+----
+
 # IMDB Reviews - Sentiment Analysis
 
 **ReviewSentimentAnalysis** is a sentiment classification project for movie reviews. It uses models like **TF-IDF + Logistic Regression**, **LightGBM**, and **BERT** to classify reviews as either positive or negative. This project includes custom preprocessing and is tested on both a movie review dataset and custom reviews.
